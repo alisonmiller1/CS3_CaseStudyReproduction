@@ -2,7 +2,7 @@
 
 ## Welcome!
 
-Welcome to the Movie Poster Person Detection case study repository.  In this repo, you will find the necesssary items and steps to reproduce the results necessary for this case study.  You will find the quantitative resources in the Materials directory.  Files in the Resources and Refernces directory can help to provide some context for the modeling and project movitation, they should be gently reviewed before beginning the reproduction.   
+Welcome to the Movie Poster Person Detection with Yolov8.s case study repository.  In this repo, you will find the necesssary items and steps to reproduce the results necessary for this case study.  You will find the quantitative resources in the Materials directory.  Files in the Resources and Refernces directory can help to provide some context for the modeling and project movitation, they should be gently reviewed before beginning the reproduction.   
 
 <img width="474" height="262" alt="Screenshot 2026-05-04 at 8 26 24 PM" src="https://github.com/user-attachments/assets/18070996-9a33-4f4e-b2c7-536816a5c42b" />
 
